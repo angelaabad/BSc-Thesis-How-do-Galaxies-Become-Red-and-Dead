@@ -22,6 +22,7 @@ Determinar la historia de formación estelar en galaxias para describir su evolu
 <img src="https://github.com/angelaabad/BSc-Thesis-How-do-galaxies-become-red-and-dead/blob/main/Images/Population-Classification-Quenching-and-Retired-Galaxies.png" width="450" />
 
 - Region of Ageing Galaxies
+<img src="https://github.com/angelaabad/BSc-Thesis-How-do-galaxies-become-red-and-dead/blob/main/Images/Population-Classification-Ageing-Galaxies.png" width="450" />
 
 
 
