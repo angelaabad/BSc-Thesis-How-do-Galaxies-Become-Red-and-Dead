@@ -3,7 +3,8 @@
 **Professors**: Pablo Corcho-Caballero and Violeta González Pérez \
 **Acknowledgements**: Yago Ascasibar Sequeiros \
 **Date**: May, 2023 \
-**Language**: Spanish
+**Main Language**: Spanish
+**Translation**: English
 
 _Universidad Autónoma de Madrid (UAM), Madrid (Spain)_
 
