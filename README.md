@@ -1,4 +1,4 @@
-# BSc-Thesis-How-do-galaxies-become-red-and-dead
+# BSc-Thesis-How-do-Galaxies-Become-Red-and-Dead
 **Author**: Ángela Abad Martín \
 **Professors**: Pablo Corcho-Caballero and Violeta González Pérez \
 **Acknowledgements**: Yago Ascasibar Sequeiros \
